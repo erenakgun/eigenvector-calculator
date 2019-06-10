@@ -26,7 +26,7 @@ When power iteration does not converge into any value, program prints out:
 ### Example
 Result for matrix A with eigenvalues 4.00 (largest) and 2.00 (smallest) is illustrated above:
 ```
-**Parameters:** A.txt 1e-6 b.txt 
+Parameters: A.txt 1e-6 b.txt 
 ```
 A.txt file:
 ```
